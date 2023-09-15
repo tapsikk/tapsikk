@@ -12,7 +12,6 @@
 <img src=src\css3.svg>
 <img src=src\nodejs.svg>
 <img src=src\react.png>
-<img src=>
 </section>
 
 <!--tools-->
