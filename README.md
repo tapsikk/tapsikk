@@ -1,21 +1,29 @@
-# <img alt="HI" src="https://img.shields.io/badge/H%20i%20%F0%9F%91%8B-_" width="60">
-# <img alt="I'm Junior Frontend developer" src="https://img.shields.io/badge/I'm%20Junior%20Frontend%20developer-_" width="300">
 
+# HI👋
+# I'm Junior Frontend developer
 
 <!--I learn and use-->
 
-## <img alt="I learn and use" src="https://img.shields.io/badge/I%20learn%20and%20use-_?logoColor=ffffff" width="120">
+## I learn and use
  <section>
-<img src=src\c++.svg>
-<img src=src\javascript.svg>
-<img src=src\html.svg>
-<img src=src\css3.svg>
+<img src=src\c++.svg
+alt="c++">
+<img src=src\javascript.svg
+alt="JS">
+<img src=src\html.svg
+alt="html">
+<img src=src\css3.svg
+alt="css">
+<img src=src\react.png
+alt="react"
+width="45"
+height="45">
 <img src=src\nodejs.svg>
-<img src=src\react.png>
+
 </section>
 
 <!--tools-->
-## <img alt="Static Badge" src="https://img.shields.io/badge/Tools-_?logoColor=ffffff" width="50">
+## Tools
 <section>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
 alt="github"
