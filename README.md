@@ -8,6 +8,8 @@
  <section>
 <img src=src\c++.svg
 alt="c++">
+<img src="src\c-sharp.svg"
+alt="c#">
 <img src=src\javascript.svg
 alt="JS">
 <img src=src\html.svg
