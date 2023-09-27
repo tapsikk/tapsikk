@@ -1,6 +1,6 @@
 
 # HI👋
-# I'm Junior Frontend developer
+# I'm Junior Full Stack developer
 
 <!--I learn and use-->
 
