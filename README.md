@@ -37,34 +37,28 @@ height="45">
 alt="github"
 width="40"
 height="40"> 
-<a href="https://code.visualstudio.com/ style="text-decoration: none;" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
 alt="vscode" 
 width="40"
 height="40">
- <a href="https://visualstudio.microsoft.com/" target="_blank">
  <img src="src/visual-studio.svg"
  alt=VS
  width="40"
  height="40">
 </a>
 </a>
-<a href="https://www.adobe.com/products/photoshopfamily.html" target="_blank">
 <img src="src/t-photoshop.svg"
 alt="photoshop"
 width="40"
 height="40">
 </a>
-<a href="https://www.adobe.com/products/premiere/free-trial-download.html" target="_blank">
  <img src="src/premiere-pro.svg"
  width="40"
  height="40">
- <a href="" target="_blank">
  <img src="src/cinema-4d.svg"
  alt=cinema
  width="40"
  height="40">
- <a href="https://obsproject.com/" target="_blank">
 <img src="src/obs-studio.svg"
 alt=obs
 width="40"
@@ -78,8 +72,3 @@ height="40">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
 </section>
-<style>
-  a {
-    text-decoration: none;
-  }
-</style>
