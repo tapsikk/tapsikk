@@ -1,10 +1,11 @@
-
 # HI👋
+
 # I'm Junior Full Stack developer
 
 <!--I learn and use-->
 
 ## I learn and use
+
  <section>
 <img src=src\c++.svg
 alt="c++">
@@ -28,13 +29,15 @@ height="45">
 </section>
 
 <!--tools-->
+
 ## Tools
+
 <section>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
 alt="github"
 width="40"
 height="40"> 
-<a href="https://code.visualstudio.com/" target="_blank">
+<a href="https://code.visualstudio.com/ style="text-decoration: none;" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
 alt="vscode" 
 width="40"
@@ -75,3 +78,8 @@ height="40">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
 </section>
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
