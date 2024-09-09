@@ -40,7 +40,7 @@ height="45">
   <img src="src/premiere-pro.svg" alt="Premiere Pro" width="40" height="40">
   <img src="src/cinema-4d.svg" alt="Cinema 4D" width="40" height="40">
   <img src="src/obs-studio.svg" alt="OBS Studio" width="40" height="40">
-  <img src="src/svg.svg" alt="MongoDB" width="40" height="40">
+  <img src="src/mongo.svg" alt="MongoDB" width="40" height="40">
   <img src="src/postman.svg" alt="Postman" width="40" height="40">
 </section>
 
