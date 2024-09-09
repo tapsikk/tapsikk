@@ -6,7 +6,7 @@
 
 ## I learn and use
 
- <section>
+ <section style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
 <img src=src\c++.svg
 alt="c++">
 <img src="src\c-sharp.svg"
@@ -32,43 +32,22 @@ height="45">
 
 ## Tools
 
-<section>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-alt="github"
-width="40"
-height="40"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
-alt="vscode" 
-width="40"
-height="40">
- <img src="src/visual-studio.svg"
- alt=VS
- width="40"
- height="40">
-</a>
-</a>
-<img src="src/t-photoshop.svg"
-alt="photoshop"
-width="40"
-height="40">
-</a>
- <img src="src/premiere-pro.svg"
- width="40"
- height="40">
- <img src="src/cinema-4d.svg"
- alt=cinema
- width="40"
- height="40">
-<img src="src/obs-studio.svg"
-alt=obs
-width="40"
-height="40">
- </section>
+<section style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="40">
+  <img src="src/visual-studio.svg" alt="VS" width="40" height="40">
+  <img src="src/t-photoshop.svg" alt="photoshop" width="40" height="40">
+  <img src="src/premiere-pro.svg" alt="Premiere Pro" width="40" height="40">
+  <img src="src/cinema-4d.svg" alt="Cinema 4D" width="40" height="40">
+  <img src="src/obs-studio.svg" alt="OBS Studio" width="40" height="40">
+  <img src="src/svg.svg" alt="MongoDB" width="40" height="40">
+  <img src="src/postman.svg" alt="Postman" width="40" height="40">
+</section>
 
 <!--gif-->
 <section>
 <img height="250" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<p align="center">
+<p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
 </section>
