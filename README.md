@@ -15,7 +15,7 @@ alt="c#">
 alt="JS">
 <img src="src\typescript.svg"
 width="48"
-alt="typeskript">
+alt="typescript">
 <img src=src\html.svg
 alt="html">
 <img src=src\css3.svg
@@ -25,6 +25,14 @@ alt="react"
 width="45"
 height="45">
 <img src=src\nodejs.svg>
+<img src=src\next.js
+alt="next.js"
+width="45"
+height="45">
+<img src=src\sass.png
+alt="sass"
+width="45"
+height="45">
 
 </section>
 
@@ -34,7 +42,7 @@ height="45">
 
 <section style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40">
   <img src="src/visual-studio.svg" alt="VS" width="40" height="40">
   <img src="src/t-photoshop.svg" alt="photoshop" width="40" height="40">
   <img src="src/premiere-pro.svg" alt="Premiere Pro" width="40" height="40">
@@ -42,6 +50,8 @@ height="45">
   <img src="src/obs-studio.svg" alt="OBS Studio" width="40" height="40">
   <img src="src/mongo.svg" alt="MongoDB" width="40" height="40">
   <img src="src/postman.svg" alt="Postman" width="40" height="40">
+  <img src="src/git.png" alt="git" width="40" height="40">
+  <img src="src/figma.png" alt="figma" width="40" height="40">
 </section>
 
 <!--gif-->
