@@ -25,8 +25,8 @@ alt="react"
 width="45"
 height="45">
 <img src=src\nodejs.svg>
-<img src=src\next.js
-alt="next.js"
+<img src=src\nextjs.png
+alt="nextjs"
 width="45"
 height="45">
 <img src=src\sass.png
@@ -42,7 +42,7 @@ height="45">
 
 <section style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35">
   <img src="src/visual-studio.svg" alt="VS" width="40" height="40">
   <img src="src/t-photoshop.svg" alt="photoshop" width="40" height="40">
   <img src="src/premiere-pro.svg" alt="Premiere Pro" width="40" height="40">
