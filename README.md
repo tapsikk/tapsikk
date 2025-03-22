@@ -7,32 +7,33 @@
 ## I learn and use
 
  <section style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
-<img src=src\c++.svg
+<img src='src\c++.svg'
 alt="c++">
-<img src="src\c-sharp.svg"
+<img src='src\c-sharp.svg'
 alt="c#">
-<img src=src\javascript.svg
+<img src='src\javascript.svg'
 alt="JS">
-<img src="src\typescript.svg"
+<img src='src\typescript.svg'
 width="48"
 alt="typescript">
-<img src=src\html.svg
+<img src='src\html.svg'
 alt="html">
-<img src=src\css3.svg
+<img src='src\css3.svg'
 alt="css">
-<img src=src\react.png
+<img src='src\react.png'
 alt="react"
 width="45"
 height="45">
-<img src=src\nodejs.svg>
-<img src=src\nextjs.png
+<img src='src\nodejs.svg'>
+<img src='src\nextjs.png'
 alt="nextjs"
 width="45"
 height="45">
-<img src=src\sass.png
+<img src='src\sass.png'
 alt="sass"
 width="45"
 height="45">
+<img src='/src/tailwind-css.svg'>
 
 </section>
 
