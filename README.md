@@ -19,21 +19,35 @@ alt="typescript">
 <img src='src\html.svg'
 alt="html">
 <img src='src\css3.svg'
-alt="css">
+alt="css"
+width="45"
+height="45"
+>
+<img src='src\sass.svg'
+alt="sass"
+width="45"
+height="45"
+>
+<img src='/src/tailwind-css.svg'
+alt="tailwind"
+width="45"
+height="45"
+>
 <img src='src\react.png'
 alt="react"
 width="45"
-height="45">
-<img src='src\nodejs.svg'>
-<img src='src\nextjs.png'
-alt="nextjs"
+height="45"
+>
+<img src='src\nodejs.svg'
+alt="nodeJS"
 width="45"
-height="45">
-<img src='src\sass.png'
-alt="sass"
+height="45"
+>
+<img src='src\nextjs.svg'
+alt="nextJS"
 width="45"
-height="45">
-<img src='/src/tailwind-css.svg'>
+height="45"
+>
 
 </section>
 
@@ -51,8 +65,8 @@ height="45">
   <img src="src/obs-studio.svg" alt="OBS Studio" width="40" height="40">
   <img src="src/mongo.svg" alt="MongoDB" width="40" height="40">
   <img src="src/postman.svg" alt="Postman" width="40" height="40">
-  <img src="src/git.png" alt="git" width="40" height="40">
-  <img src="src/figma.png" alt="figma" width="40" height="40">
+  <img src="src/git.svg" alt="git" width="40" height="40">
+  <img src="src/figma.svg" alt="figma" width="40" height="40">
 </section>
 
 <!--gif-->
