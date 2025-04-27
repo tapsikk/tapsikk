@@ -28,7 +28,7 @@ alt="sass"
 width="45"
 height="45"
 >
-<img src='/src/tailwind-css.svg'
+<img src='src/tailwind-css.svg'
 alt="tailwind"
 width="45"
 height="45"
@@ -57,12 +57,17 @@ height="45"
 
 <section style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"> 
+  <img src="src/chatGPT.svg" alt="chatGPT" width="40" height="40">
+  <img src="src/claude.svg" alt="claude-AI" width="40" height="40">
+  <img src="src/deepseek.svg" alt="deepseek-AI" width="40" height="40">
+  <img src="src/gemini-AI.svg" alt="gemini-AI" width="40" height="40">
+  <img src="src/perplexity-ai.svg" alt="perplexity-AI" width="40" height="40">
+  <img src="src/mistral-AI.svg" alt="mistral-AI" width="40" height="40">
   <img src="src/vs-code.png" alt="vscode" width="40" height="40">
   <img src="src/visual-studio.svg" alt="VS" width="40" height="40">
   <img src="src/t-photoshop.svg" alt="photoshop" width="40" height="40">
   <img src="src/premiere-pro.svg" alt="Premiere Pro" width="40" height="40">
   <img src="src/cinema-4d.svg" alt="Cinema 4D" width="40" height="40">
-  <img src="src/obs-studio.svg" alt="OBS Studio" width="40" height="40">
   <img src="src/mongo.svg" alt="MongoDB" width="40" height="40">
   <img src="src/postman.svg" alt="Postman" width="40" height="40">
   <img src="src/git.svg" alt="git" width="40" height="40">
