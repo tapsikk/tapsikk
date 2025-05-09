@@ -56,7 +56,7 @@ height="45"
 ## Tools
 
 <section style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"> 
+  <img src="src/github.svg" alt="github" width="40" height="40"> 
   <img src="src/chatGPT.svg" alt="chatGPT" width="40" height="40">
   <img src="src/claude.svg" alt="claude-AI" width="40" height="40">
   <img src="src/deepseek.svg" alt="deepseek-AI" width="40" height="40">
@@ -72,6 +72,8 @@ height="45"
   <img src="src/postman.svg" alt="Postman" width="40" height="40">
   <img src="src/git.svg" alt="git" width="40" height="40">
   <img src="src/figma.svg" alt="figma" width="40" height="40">
+  <img src="src/trello.svg" alt="trello" width="40" height="40">
+   <img src="src/slack.svg" alt="sclack" width="40" height="40">
 </section>
 
 <!--gif-->
