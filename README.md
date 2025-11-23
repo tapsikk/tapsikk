@@ -1,84 +1,92 @@
-# HI👋
-
-# I'm Full Stack developer
-
-<!--I learn and use-->
-
-## I learn and use
-
- <section style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
-<img src='src\c++.svg'
-alt="c++">
-<img src='src\c-sharp.svg'
-alt="c#">
-<img src='src\javascript.svg'
-alt="JS">
-<img src='src\typescript.svg'
-width="48"
-alt="typescript">
-<img src='src\html.svg'
-alt="html">
-<img src='src\css3.svg'
-alt="css"
-width="45"
-height="45"
->
-<img src='src\sass.svg'
-alt="sass"
-width="45"
-height="45"
->
-<img src='src/tailwind-css.svg'
-alt="tailwind"
-width="45"
-height="45"
->
-<img src='src\react.png'
-alt="react"
-width="45"
-height="45"
->
-<img src='src\nodejs.svg'
-alt="nodeJS"
-width="45"
-height="45"
->
-<img src='src\nextjs.svg'
-alt="nextJS"
-width="45"
-height="45"
->
-
-</section>
-
-<!--tools-->
-
-## Tools
-
-<section style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img src="src/github.svg" alt="github" width="40" height="40"> 
-  <img src="src/chatGPT.svg" alt="chatGPT" width="40" height="40">
-  <img src="src/claude.svg" alt="claude-AI" width="40" height="40">
-  <img src="src/deepseek.svg" alt="deepseek-AI" width="40" height="40">
-  <img src="src/gemini-AI.svg" alt="gemini-AI" width="40" height="40">
-  <img src="src/perplexity-ai.svg" alt="perplexity-AI" width="40" height="40">
-  <img src="src/mistral-AI.svg" alt="mistral-AI" width="40" height="40">
-  <img src="src/vs-code.png" alt="vscode" width="40" height="40">
-  <img src="src/visual-studio.svg" alt="VS" width="40" height="40">
-  <img src="src/t-photoshop.svg" alt="photoshop" width="40" height="40">
-  <img src="src/premiere-pro.svg" alt="Premiere Pro" width="40" height="40">
-  <img src="src/cinema-4d.svg" alt="Cinema 4D" width="40" height="40">
-  <img src="src/mongo.svg" alt="MongoDB" width="40" height="40">
-  <img src="src/postman.svg" alt="Postman" width="40" height="40">
-  <img src="src/git.svg" alt="git" width="40" height="40">
-  <img src="src/figma.svg" alt="figma" width="40" height="40">
-  <img src="src/trello.svg" alt="trello" width="40" height="40">
-</section>
-
-<!--gif-->
-<section>
-<img height="250" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Maksym&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </p>
-</section>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;Clean+Code+Advocate;Building+Modern+Web+Applications" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_USERNAME&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
+---
+
+## 💻 About Me
+```typescript
+const maksym: Developer = {
+  location: "Lithuania 🇱🇹",
+  role: "Frontend Developer",
+  currentFocus: "Building modern, performant web applications",
+  
+  skills: {
+    languages: ["TypeScript", "JavaScript", "C++", "C#"],
+    frontend: ["React", "Next.js", "Tailwind CSS", "Sass"],
+    backend: ["Node.js", "MongoDB"],
+    tools: ["Git", "Figma", "Postman", "VS Code"]
+  },
+  
+  lifePhilosophy: "Clean code & great user experience",
+  
+  dailyRoutine: () => {
+    while (alive) {
+      coffee();
+      code();
+      learn();
+      repeat();
+    }
+  }
+};
+```
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,sass,tailwind,cpp,cs&theme=dark" alt="Tech Stack"/>
+</p>
+
+## 🔧 Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma,postman,mongodb&theme=dark" alt="Tools"/>
+</p>
+
+<p align="center">
+  <img src="src/chatGPT.svg" width="40" alt="ChatGPT"/>
+  <img src="src/claude.svg" width="40" alt="Claude AI"/>
+  <img src="src/perplexity-ai.svg" width="40" alt="Perplexity AI"/>
+  <img src="src/t-photoshop.svg" width="40" alt="Photoshop"/>
+  <img src="src/premiere-pro.svg" width="40" alt="Premiere Pro"/>
+  <img src="src/cinema-4d.svg" width="40" alt="Cinema 4D"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ТВОЙ_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="165" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ТВОЙ_USERNAME/ТВОЙ_USERNAME/output/github-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</p>
