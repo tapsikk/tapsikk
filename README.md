@@ -8,24 +8,20 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_USERNAME&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
-
----
-
 ## 💻 About Me
 ```typescript
 const maksym: Developer = {
   location: "Lithuania 🇱🇹",
   role: "Frontend Developer",
-  currentFocus: "Building modern, performant web applications",
+  currentFocus: "Building AI-powered web applications",
   
   skills: {
-    languages: ["TypeScript", "JavaScript", "C++", "C#"],
-    frontend: ["React", "Next.js", "Tailwind CSS", "Sass"],
+    languages: ["TypeScript", "JavaScript"],
+    frontend: ["React", "Next.js", "Vite", "Tailwind CSS", "Sass", "Framer Motion"],
+    stateManagement: ["Zustand", "Redux Toolkit"],
     backend: ["Node.js", "MongoDB"],
-    tools: ["Git", "Figma", "Postman", "VS Code"]
+    cloud: ["AWS", "Vercel"],
+    tools: ["Git", "Docker", "Figma", "Postman", "Linear"]
   },
   
   lifePhilosophy: "Clean code & great user experience",
@@ -41,18 +37,22 @@ const maksym: Developer = {
 };
 ```
 
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,sass,tailwind,cpp,cs&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,nodejs,discordjs,html,css,sass,tailwind,redux&theme=dark" alt="Tech Stack"/>
+</p>
+
+## ☁️ Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,docker&theme=dark" alt="Cloud"/>
 </p>
 
 ## 🔧 Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma,postman,mongodb&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,mongodb&theme=dark" alt="Tools"/>
 </p>
 
 <p align="center">
@@ -61,23 +61,8 @@ const maksym: Developer = {
   <img src="src/perplexity-ai.svg" width="40" alt="Perplexity AI"/>
   <img src="src/t-photoshop.svg" width="40" alt="Photoshop"/>
   <img src="src/premiere-pro.svg" width="40" alt="Premiere Pro"/>
-  <img src="src/cinema-4d.svg" width="40" alt="Cinema 4D"/>
+  <img src="src/linear.svg" width="40" alt="Linear"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tapsikk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tapsikk&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="165" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapsikk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
