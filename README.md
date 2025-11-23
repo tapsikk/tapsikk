@@ -13,7 +13,7 @@
 const maksym: Developer = {
   location: "Lithuania 🇱🇹",
   role: "Frontend Developer",
-  currentFocus: "Building AI-powered web applications",
+  currentFocus: "Building powered web applications",
   
   skills: {
     languages: ["TypeScript", "JavaScript"],
